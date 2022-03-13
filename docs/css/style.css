@@ -1005,7 +1005,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 
 @media (max-width: 992px) {
 	.intro-text h1{
-		font-size: 130px;
+		font-size: 80px;
 		margin-top: 70px;
 	}
 }
@@ -1040,8 +1040,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 	}
 
 @media (max-width: 992px) {
-	#logoTitolo {
-		height: 150px;
+	#menu a.navbar-brand{
+		font-size: 25px;
 	}
 }
 
